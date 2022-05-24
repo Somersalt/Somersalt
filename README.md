@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on Node.Js
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning ReactJs
 
 <a href="https://github.com/Somersalt">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Somersalt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
